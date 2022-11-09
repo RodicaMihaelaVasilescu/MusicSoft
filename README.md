@@ -11,4 +11,5 @@ Magazin Play
 
 ![image](https://user-images.githubusercontent.com/41547572/200944804-70382f66-286e-4a58-8de7-678eb6be0854.png)
 
+![image](https://user-images.githubusercontent.com/41547572/200944954-33601416-1b04-4980-9086-a5cda0e082c0.png)
 
