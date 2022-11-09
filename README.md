@@ -1,7 +1,14 @@
 # MusicSoft
 Magazin Play
-![image](https://user-images.githubusercontent.com/41547572/200943216-4243c0be-105a-4a57-8e2f-88c525f736a8.png)
 
-![image](https://user-images.githubusercontent.com/41547572/200943329-15d72b1f-f831-42e1-ab8c-4f2aba5955e9.png)
+![image](https://user-images.githubusercontent.com/41547572/200943920-b23199f8-fc85-4225-bf53-fa8c001b8e28.png)
 
-![image](https://user-images.githubusercontent.com/41547572/200943305-d5db2506-bb43-4877-891e-72f6122757fe.png)
+![image](https://user-images.githubusercontent.com/41547572/200944393-fb58e451-83ac-45f6-a67b-993875caf22d.png)
+
+![image](https://user-images.githubusercontent.com/41547572/200944017-f62a18d7-c70f-4a96-9e7b-1936394a5328.png)
+
+![image](https://user-images.githubusercontent.com/41547572/200944584-edaf8a2c-af27-434f-bcb3-9a3cdbe2fc4d.png)
+
+![image](https://user-images.githubusercontent.com/41547572/200944804-70382f66-286e-4a58-8de7-678eb6be0854.png)
+
+
